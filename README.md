@@ -1,50 +1,45 @@
-To-Do List
-A simple and efficient To-Do List application designed to help users manage their daily tasks effectively.
+# To-Do List Application
 
-Features
-Add, edit, and delete tasks
+## Overview
+The **To-Do List Application** is a simple yet efficient task management tool designed to help users organize their daily activities. This project is built with a user-friendly interface, enabling users to create, update, and delete tasks effortlessly.
 
-Mark tasks as completed
+## Features
+- **Task Management**: Add, edit, and remove tasks efficiently.
+- **Task Completion**: Mark tasks as completed.
+- **Persistent Storage**: Save tasks locally for future access.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
-Store tasks persistently
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js (if applicable)
+- **Database**: MongoDB / LocalStorage (depending on implementation)
+- **Version Control**: Git and GitHub
 
-Responsive user interface
+## Installation
+To set up the project locally, follow these steps:
 
-Technologies Used
-Frontend: [Specify framework or plain HTML/CSS/JS]
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:mbayajames/To-do-list.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd To-do-list
+   ```
+3. Install dependencies (if applicable):
+   ```bash
+   npm install
+   ```
+4. Run the application:
+   ```bash
+   npm start
+   ```
 
-Backend: [If applicable, specify backend technologies]
+## Usage
+1. Open the application in your browser.
+2. Add tasks using the input field.
+3. Mark tasks as completed once done.
+4. Delete tasks that are no longer needed.
 
-Database: [If applicable, specify database]
 
-Installation
-Clone the repository:
 
-sh
-Copy
-Edit
-git clone git@github.com:mbayajames/To-do-list.git
-Navigate to the project directory:
-
-sh
-Copy
-Edit
-cd To-do-list
-Install dependencies (if applicable):
-
-sh
-Copy
-Edit
-npm install  # or yarn install
-Run the application:
-
-sh
-Copy
-Edit
-npm start  # or yarn start
-Usage
-Open the application and add tasks
-
-Mark tasks as complete or delete them
-
-Enjoy a clean and simple task management experience
