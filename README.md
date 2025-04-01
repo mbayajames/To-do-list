@@ -1,4 +1,4 @@
-# To-Do List Application
+# (To-Do List Application)
 
 ## Overview
 The **To-Do List Application** is a simple yet efficient task management tool designed to help users organize their daily activities. This project is built with a user-friendly interface, enabling users to create, update, and delete tasks effortlessly.
@@ -9,7 +9,7 @@ The **To-Do List Application** is a simple yet efficient task management tool de
 - **Persistent Storage**: Save tasks locally for future access.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
-## Technologies Used
+## Technology Used
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js (if applicable)
 - **Database**: MongoDB / LocalStorage (depending on implementation)
